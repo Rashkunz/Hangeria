@@ -5,12 +5,12 @@
 
 @font-face {
   font-family: "Poppins-Thin";
-  src: url(../assets/font/Poppins-Thin.ttf);
+  src: url(assets/font/Poppins-Thin.ttf);
 }
 
 @font-face {
   font-family: "Poppins-ThinItalic";
-  src: url(../assets/font/Poppins-ThinItalic.ttf);
+  src: url(assets/font/Poppins-ThinItalic.ttf);
 }
 
 @font-face {
@@ -87,7 +87,7 @@ main {
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url(../assets/image/d733345e4f11231904e7634a04439e21.gif);
+    url(assets/image/d733345e4f11231904e7634a04439e21.gif);
   filter: grayscale(75%);
   background-repeat: no-repeat;
   background-size: cover;
